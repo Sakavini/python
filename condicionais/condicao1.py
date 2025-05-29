@@ -1,3 +1,6 @@
+# Condicionais são estruturas usadas em programação para tomar decisões com base em condições.
+
+
 numero = int(input("Insira um número inteiro: "))
 
 if numero > 0:
